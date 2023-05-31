@@ -64,6 +64,8 @@ public class CallableStatement01 {
         // callableStatement'ta data resultset icine alinmaz. Direk callableStatement'tan alinir.
         System.out.println(callableStatement2.getBigDecimal(1));
 
+        //*****************************************
+
 
 
 
